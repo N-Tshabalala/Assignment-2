@@ -20,11 +20,12 @@ After the completion of front-end of the application, we move on to the back end
 Figure 2: Mohd S. Syntax Error. Available at: https://i.pinimg.com/564x/e4/49/e5/e449e5c1a93f148cbf2b5416e1509ef5.jpg (Accessed 28 April 2024)
 
 For the Tamagotchi app to function the code used had to follow as certain logic. Therefore, we had to begin with declaring variables that were going to be used in the program. Ranging from declaring the buttons and texts used, with their assigned string imports and IDs. Setting the buttons to click commands and functions that will allow the health, food and cleanliness of the virtualised dog to decease, and increase based on the clicks the user would need to input. Thus, outputting the experience of the taking care of a real dog.
+ 
+A user can expect a fun and light-hearted experience when using the application, with a hint of tension. As this simulates owning a dog but without the stress of having real world consequences.
 
 
-
-https:youtu.be/HTfcVV9SWrc?si=9eDtk0tPk4V9cXJB 
-A user can expect a fun and light-hearted experience when using the application, with a hint of tension. As this simulates owning a dog but without the stress of having real world consequences. 
+Youtube: 
+https:youtu.be/HTfcVV9SWrc?si=9eDtk0tPk4V9cXJB
 
   
 
